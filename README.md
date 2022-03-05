@@ -3,6 +3,6 @@ This is a food recipe react app in which the user can search for the recipes of 
 ## Deployment
 If you want to preview the web application. Then visit https://vibhanshu2001.github.io/food-recipe-react-app/
 ## Preview
-<img width="1440" alt="Screenshot 2021-04-29 at 12 28 06 AM" src="https://user-images.githubusercontent.com/64217477/116458080-cf791a80-a881-11eb-9fdb-736e6f8599de.png">
-<img width="1440" alt="Screenshot 2021-04-29 at 12 27 50 AM" src="https://user-images.githubusercontent.com/64217477/116458109-da33af80-a881-11eb-8423-19f7c72f7893.png">
+<img width="1146" alt="Screenshot 2022-03-05 at 2 15 01 PM" src="https://user-images.githubusercontent.com/80777510/156875812-7ac7db07-9809-4611-9eab-96eec84217ab.png">
+<img width="1146" alt="Screenshot 2022-03-05 at 2 14 54 PM" src="https://user-images.githubusercontent.com/80777510/156875819-b83ce387-db53-4870-bebc-58ea471c95ec.png">
 
